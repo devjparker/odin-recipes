@@ -1,0 +1,15 @@
+* {
+    text-align:center;
+    background-color:#AD5B1C;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+h1{
+    font-size:40px;
+    color:white;
+}
+
+p.links{
+    font-size:28px;
+    color:black;
+}
