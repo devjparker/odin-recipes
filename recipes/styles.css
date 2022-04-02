@@ -1,6 +1,15 @@
-<!--stylesheet-->
 *{
     text-align:center;
     background-color:#AD5B1C;
     color:white;
+}
+
+img{
+    width:700px;
+    height:auto;
+}
+
+li,
+.left{
+    text-align:left;
 }
